@@ -5,7 +5,7 @@ body {
 
 .assignment-details {
     display: flex;
-    padding: 3%;
+    padding: 2%;
     margin: 10px;
     background: rgb(160, 160, 190);
 }
