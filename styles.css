@@ -1,6 +1,19 @@
 body {
-    background: rgb(77, 77, 192);
+    background: rgb(108, 108, 175);
     font-family: 'Courier New', Courier, monospace;
+}
+
+
+.assignment-details {
+    display: flex;
+    padding: 3%;
+    margin: 10px;
+    background: rgb(160, 160, 190);
+}
+
+.assignment-details img {
+    width: 500px;
+    padding: 15px;
 }
 
 h1 {
